@@ -1,0 +1,12 @@
+c:\users\8\documents\visual studio 2015\Projects\muhendislikprojesi\muhendislikprojesi\bin\Debug\muhendislikprojesi.exe.config
+c:\users\8\documents\visual studio 2015\Projects\muhendislikprojesi\muhendislikprojesi\bin\Debug\muhendislikprojesi.exe
+c:\users\8\documents\visual studio 2015\Projects\muhendislikprojesi\muhendislikprojesi\bin\Debug\muhendislikprojesi.pdb
+c:\users\8\documents\visual studio 2015\Projects\muhendislikprojesi\muhendislikprojesi\obj\Debug\muhendislikprojesi.csprojResolveAssemblyReference.cache
+c:\users\8\documents\visual studio 2015\Projects\muhendislikprojesi\muhendislikprojesi\obj\Debug\muhendislikprojesi.Form1.resources
+c:\users\8\documents\visual studio 2015\Projects\muhendislikprojesi\muhendislikprojesi\obj\Debug\muhendislikprojesi.Properties.Resources.resources
+c:\users\8\documents\visual studio 2015\Projects\muhendislikprojesi\muhendislikprojesi\obj\Debug\muhendislikprojesi.csproj.GenerateResource.Cache
+c:\users\8\documents\visual studio 2015\Projects\muhendislikprojesi\muhendislikprojesi\obj\Debug\muhendislikprojesi.exe
+c:\users\8\documents\visual studio 2015\Projects\muhendislikprojesi\muhendislikprojesi\obj\Debug\muhendislikprojesi.pdb
+C:\Users\8\Desktop\muhendislikprojesi\muhendislikprojesi\bin\Debug\muhendislikprojesi.exe.config
+C:\Users\8\Desktop\muhendislikprojesi\muhendislikprojesi\obj\Debug\muhendislikprojesi.exe
+C:\Users\8\Desktop\muhendislikprojesi\muhendislikprojesi\obj\Debug\muhendislikprojesi.pdb
